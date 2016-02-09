@@ -1,0 +1,39 @@
+header {
+    background-color: #0066CC;
+        
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: normal;
+    background-color: #0066CC;
+    padding: 5px;
+    padding-top: 15px;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.gris {
+    background-color: rgb(240,240,240);
+     
+}
+.link {color: white;
+font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding: 5px;
+    padding-bottom: 15px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    
+}
+.gris1 {
+    padding: 10px;
+}
+.gris3 {
+    background-color: rgb(240,240,240);
+}
