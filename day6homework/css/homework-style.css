@@ -86,10 +86,9 @@ section p {
 footer {
     float: clear;
     margin-top: 30px;
-    background-color: rgb(245, 245, 245);
     width: 700px;
     font-size: 12px;
-height: 120px;
+    height: 120px;
     border-top-style: solid;
     border-color: lightgray;
     border-width: thin;
@@ -132,7 +131,7 @@ a {
 
 .third {
     float: left;
-     border-left-style: solid;
+    border-left-style: solid;
     border-color: lightgray;
     border-width: thin;
 }
