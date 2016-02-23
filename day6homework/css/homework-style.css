@@ -136,3 +136,7 @@ a {
     border-color: lightgray;
     border-width: thin;
 }
+
+li {
+    list-style-image: url('http://www.runyourbq.com/wp-content/plugins/premise/themes/premise/images/bullets/checkmark-green.png');
+}
