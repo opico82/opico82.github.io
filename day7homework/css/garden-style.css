@@ -1,0 +1,88 @@
+.small-box {
+    width: 300px;
+    padding: 40px;
+}
+
+.small-box h2 {
+    color: white;
+    text-transform: uppercase;
+}
+
+.small-box p {
+    color: green;
+}
+
+#grow {
+    background: url('../img/featured-image-3.jpg');
+    background-repeat: no-repeat;
+}
+
+#plant {
+    background: url('../img/featured-image-4.jpg');
+    background-repeat: no-repeat;
+}
+
+#land {
+    background: url('../img/featured-image-5.jpg');
+    background-repeat: no-repeat;
+    width: 600px;
+    padding: 50px;
+    float: left;
+}
+
+main {
+    background-color: white;
+    width: 1150px;
+}
+
+aside {
+    float: left;
+}
+
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+#index {
+    background-image: url(../img/1.jpg);
+    width: 1500px;
+    height: 900px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/1.jpg);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#index h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+#index h3 {
+    text-transform: uppercase;
+    font-size: 10px
+}
+
+#index p {
+    padding-bottom: 30px;
+}
+
+#index div {
+    text-align: center;
+    padding-top: 300px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.button1 {
+    border-radius: 2px;
+    background-color: yellowgreen;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+}
