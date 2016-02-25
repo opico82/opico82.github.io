@@ -13,17 +13,17 @@
 }
 
 #grow {
-    background: url('../img/featured-image-3.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/featured-image-3.jpg');
     background-repeat: no-repeat;
 }
 
 #plant {
-    background: url('../img/featured-image-4.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/featured-image-4.jpg');
     background-repeat: no-repeat;
 }
 
 #land {
-    background: url('../img/featured-image-5.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/featured-image-5.jpg');
     background-repeat: no-repeat;
     width: 600px;
     padding: 50px;
@@ -47,11 +47,12 @@ aside {
 
 #index {
     background-image: url(../img/1.jpg);
-    width: 1500px;
-    height: 900px;
+    
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/1.jpg);
     background-repeat: no-repeat;
     color: white;
+    width: 100%;
+    height: 712px;
 }
 
 #index h1 {
