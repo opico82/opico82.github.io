@@ -96,6 +96,7 @@ header nav a:hover {
     font-size: 35px;
     padding-left: 20px;
     padding-right: 20px;
+    padding-top: 100px;
 }
 
 
@@ -107,7 +108,7 @@ header nav a:hover {
 
 #wines {
     width: 1500px;
-    height: 300px;
+    height: 600px;
     font-size: 12px;
 }
 
@@ -115,4 +116,19 @@ header nav a:hover {
     width: 500px;
     float: left;
     text-align: center;
+}
+
+#wines a {
+    border-radius: 2px;
+    background-color: yellowgreen;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+
+}
+
+#wines p {
+    padding-bottom: 10px;
 }
