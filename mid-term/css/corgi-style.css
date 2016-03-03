@@ -1,0 +1,125 @@
+body {
+    font-family: 'open sans', sans-serif;
+}
+
+.container {
+    height: 100px;  
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    padding-top: 10px;
+}
+
+header h1 {
+    float: left;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    color: darkslategray
+}
+
+header img {
+    float: left;
+    height: 80px;
+    width: 80px;
+}
+
+header a {
+    float: right;
+    padding-right: 10px;
+    font-size: 20px;
+    border-radius: 2px;
+    background-color: rebeccapurple;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    
+}
+
+#hero
+{
+ background: url(../img/corgi-extinct-ftr.jpg);
+    height: 400px;
+    background-position: center;
+    text-align: center;
+    padding-top: 350px;
+    background-repeat: no-repeat;
+}
+
+#hero h1 {
+    color:purple;
+    font-size: 50px;
+    padding-bottom: 100px;
+}
+
+#hero h2 {
+    color: dodgerblue;
+    font-size: 35px;
+    padding-bottom: 35px;
+}
+
+.sabias {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: purple;
+    font-family: cursive;
+}
+
+#facts div {
+    color: white;
+    height: 400px;
+    text-align: center;
+    padding-top: 20px;
+    background: linear-gradient(to bottom, rgba(00,100,100,0.9) 0%, rgba(00,0,100,0.8) 100%), url(../img/Screen%20Shot%202016-03-02%20at%203.53.16%20PM.png);
+    background-repeat: no-repeat; 
+    padding-left: 10px;
+}
+
+.origin {
+    width: 370px;
+    float: left;
+    background: static;
+}
+
+.types {
+    width: 370px;
+    float: left;
+}
+
+.historia {
+    width: 370px;
+    float: left;
+}
+
+#breed {
+    margin-top: 10px;
+}
+.foto {
+    float: left;
+
+}
+
+.about {
+    float: left;
+    text-align: center;
+    font-size: 10px;
+    width: 48%;
+}
+
+#hero a {
+    
+  border-radius: 2px;
+    background-color: yellowgreen;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+}
+

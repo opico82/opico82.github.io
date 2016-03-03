@@ -1,0 +1,28 @@
+header {
+    
+    background: black;
+    color: white;
+    padding-top: 5px;
+    width: 80%;
+}
+
+header h1 {
+    text-align: center;
+    padding-bottom: 15px;
+ 
+}
+
+.hero {
+    width: 80%;
+}
+
+.content {
+    width: 80%;
+}
+.content h2 {
+    align-content: center;
+}
+
+.content p {
+    align-content: center;
+}
