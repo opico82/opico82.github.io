@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    margin: auto 0;
+}
+
+.clear-fix {
+    content: '';
+    display: both;
+    clear: both;
+}
+
+#hero {
+    background: url('http://i.imgur.com/M07rfyH.jpg');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    color: white;
+    height: 450px;
+}
+
+#hero h1 {
+    font-size: 48px;
+    padding-top: 160px;
+    font-weight: lighter;
+}
+
+#hero p {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+#menu {
+    background: cyan;
+}
+
+.icon {
+    margin-top: 20px;
+    float: left;
+    width: 25%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .icon {
+        margin-top: 20px;
+        float: left;
+        width: 50%;
+    }
+}
+
+@media (max-width: 767px) {
+    .icon {
+        margin-top: 20px;
+        float: none;
+        width: 100%;
+    }
+    #menu {
+        background: none;
+    }
+}
