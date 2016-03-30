@@ -1,0 +1,49 @@
+body{
+    width: 100%;
+    margin: auto 0;
+}
+
+#top-stories p{
+    font-weight: bold;
+}
+#top-stories hr{
+    font-weight: bold;
+}
+#hero .button-link{
+    padding: 10px 15px;
+    background: #585858;
+    color: white;
+}
+#hero .button-link:hover{
+    text-decoration: none;
+    color: white;
+}
+
+footer .button-link{
+    padding: 2px 5px;
+    background: #585858;
+    color: white;
+}
+.button-link:hover{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    margin: 20px;
+    background-color: #585858;
+    color:white;
+}
+footer a{
+    font-weight: lighter;
+}
+
+#social{
+    float: right;
+}
+
+#social img {
+    
+    width: 30px;
+    padding-left: 10px;
+}
