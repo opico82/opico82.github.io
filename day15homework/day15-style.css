@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    margin: auto 0;
+}
+
+#hero1{
+    background: url('../day15homework/img/hero1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.flogo{
+    opacity: 0.75;
+    vertical-align: middle;
+    border: 0;
+}
+
+#hero1{
+    text-align: center;
+    color: white;
+}
+
+#hero1 div h4{
+    font-size: 24px
+}
+
+#about{
+    text-align: center;
+}
+#about div h5{
+    font-style: italic;
+}
+#about div h4{
+    font-style: italic;
+}
+#about div p{
+    font-weight: lighter;
+    line-height: 200%;
+}
+
+#signature{
+    max-height: 80px;
+    max-width: 100%;
+    vertical-align: middle;
+}

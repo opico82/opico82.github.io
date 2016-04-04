@@ -1,0 +1,156 @@
+/* navbar */
+
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-color: transparent;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    border-radius: 0px;
+    z-index: 10007;
+}
+
+.content-block-one {
+    padding: 30px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: #eee;
+}
+
+.content-block-one h1,
+.content-block-one .h1 {
+    color: inherit;
+}
+
+.content-block-one p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+.content-block-one > hr {
+    border-top-color: #d5d5d5;
+}
+
+.container .content-block-one {
+    border-radius: 6px;
+}
+
+.content-block-one .container {
+    max-width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .content-block-one {
+        padding-top: 48px;
+        padding-bottom: 48px;
+    }
+    .container .content-block-one {
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+    .content-block-one h1,
+    .content-block-one .h1 {
+        font-size: 63px;
+    }
+}
+
+.content-space-one {
+    padding: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    background: url(http://www.solutionstalk.com/home/wp-content/uploads/bigstock-club-sandwich-clubhouse-Sand-26008286.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.content-space-two {
+    padding: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    background: url(http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/8/22/0/FN_sandwich-thinkstock_s4x3.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.page-break {
+    width: 50%;
+    height: 3px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+.navbar-toggle {
+    padding: 5px;
+}
+
+.navbar-toggle > img {
+    width: 22px;
+}
+
+#carousel-example-generic {
+    max-height: 700px;
+    overflow: hidden;
+}
+
+.carousel-caption {
+    top: 20%;
+}
+
+.carousel-caption h2 {
+    font-size: 40px;
+}
+
+
+.divider {
+    height:50px;
+}
+
+section {
+    height:500px;
+    padding-top:50px;
+    padding-bottom:50px;
+    overflow:auto;
+}
+
+.bg-1 {
+	background: url(http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/8/22/0/FN_sandwich-thinkstock_s4x3.jpg) no-repeat center center fixed;
+    color:#fff;
+    background-size:cover;
+}
+  
+.bg-2 {
+	background: url(http://www.solutionstalk.com/home/wp-content/uploads/bigstock-club-sandwich-clubhouse-Sand-26008286.jpg) no-repeat top center fixed;
+    color:#fff;
+    background-size:cover;
+}
+
+.bg-3 {
+	background: url(http://www.madman.com.au/wallpapers/aqua_teen_hunger_force_275_1024.jpg) no-repeat bottom center fixed;
+    color:#fff;
+    background-size:cover;
+}
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+  color:#efefef;
+}
+
+.modal-body {
+    float: left;
+}

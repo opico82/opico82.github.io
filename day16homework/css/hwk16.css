@@ -1,0 +1,42 @@
+div {
+    height: 526px;
+}
+
+.yellow-bg {
+    background: yellow;
+    margin-top: 30px;
+    
+}
+
+.yellow-bg h1 {
+    padding-top: 150px;
+    font-size: 30px;
+      
+}
+
+body {
+    background: #ccc;
+    
+}
+
+.cuadro {
+    background: #FFFFFF;
+    text-align: center;
+}
+
+h4 {
+    padding-top: 128px;
+}
+
+img {
+    padding-top: 30px;
+}
+
+.gray-bg {
+    background: #FFFFFF;
+    margin-top: 30px;
+}
+
+.gray-bg h1 {
+    padding-top: 150px;
+    font-size: 30px;
