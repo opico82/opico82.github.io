@@ -1,5 +1,6 @@
 div {
     height: 526px;
+    min-height: 275px;
 }
 
 .yellow-bg {
