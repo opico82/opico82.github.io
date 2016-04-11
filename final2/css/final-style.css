@@ -1,0 +1,62 @@
+
+
+
+.navbar-default .navbar-nav>li>a {
+    color:navy;
+}
+
+
+body {height: 100%;}
+
+
+
+#hero { 
+margin-top: 50px;
+    text-align: center;
+    background-image:url(../img/ciudad_mexico.jpg);
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: table;
+}
+
+#hero h1 {
+    padding-top: 180px;
+    color: white;
+    font-size: 60px;
+}
+
+
+
+section a {
+    font-size: 100px;
+    border-radius: 2px;
+    background-color: rebeccapurple;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 2px;
+    background-color: rebeccapurple;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#info {
+    margin: 50px;
+}
+
+#salidas {
+    margin: 50px;
+}
